@@ -41,3 +41,6 @@ This class should expand over time to fufill the requirements of running the mot
 ### Joystick Support
 Additionally this package includes a python-only interpreter for commanding motors using an Xbox gamepad.
 This bootstraps off of Pyjoystick, and can easily be generalized to other gamepad devices.
+
+### Porting To Other Languages
+To port the Chariot interface to other languages, you will need an implementation of the [cantools]() library, ...
